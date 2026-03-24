@@ -1,6 +1,7 @@
 ## Hi, I'm Basanta 👋
 
 PhD candidate in Computer Science @ University of Georgia
+
 Cybersecurity researcher and engineer focused on building scalable, evidence-driven security systems
 
 ---
@@ -44,8 +45,4 @@ I build end-to-end pipelines that integrate **privacy-preserving techniques with
 
 Threat detection & alert verification • Digital forensics & provenance analysis • Privacy-preserving systems • Security automation • Applied research
 
----
-
-### 📌 Notes
-
-Some research projects (e.g., ongoing work on automated security analysis pipelines) are not fully open-sourced but available upon request.
+**Note:** Some research projects (e.g., ongoing work on automated security analysis pipelines) are not fully open-sourced but available upon request.
