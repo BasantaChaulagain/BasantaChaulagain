@@ -19,14 +19,14 @@ I build end-to-end pipelines that integrate **privacy-preserving techniques with
 
 ### ⚙️ Selected Work
 
-🛡️ **FA-SEAL (Forensically analyzable encryption for audit logs)** [https://ieeexplore.ieee.org/document/10917745]
+🛡️ **[FA-SEAL (Forensically analyzable encryption for audit logs)](https://ieeexplore.ieee.org/document/10917745)**
 
 - Enables forensic analysis directly on encrypted logs
 - Processes **~30GB/day in ~90 minutes** (single core)
 - Reveals only **0.68% of sensitive data**
 - Supports forward and backward attack tracing
 
-🤖 **MAPSEC (Multi-Agentic Program for Security and Cyberdefense)** [https://www.nplcoder.org/en/mapsec#/nplcareer/resources]
+🤖 **[MAPSEC (Multi-Agentic Program for Security and Cyberdefense)](https://www.nplcoder.org/en/mapsec#/nplcareer/resources)**
 
 - Contributed to an open-source initiative exploring **agent-based AI for autonomous cyber defense**
 - Focused on building systems for **automated threat detection, response, and mitigation** using collaborative agents
