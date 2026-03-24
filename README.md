@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Basanta 👋
 
-<!--
-**BasantaChaulagain/BasantaChaulagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD candidate in Computer Science @ University of Georgia  
+Security researcher & engineer focused on:
 
-Here are some ideas to get you started:
+- Digital Forensics
+- Privacy-preserving systems
+- Intrusion detection & alert verification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research
+
+- **FA-SEAL (ACSAC'24)**  
+  Secure forensic analysis on encrypted audit logs  
+- **FACT**  
+  Automated artifact-driven alert verification
+
+---
+
+## ⚙️ Industry Experience
+
+- Built 100+ SIEM detection rules (MITRE ATT&CK)
+- Developed 30+ security analytics applications
+
+---
+
+## 📌 Highlight Projects
+
+- 🔗 FA-SEAL → [link]
+- 🔗 MAPSEC Security Agent → [link]
+
+---
+
+## 🧠 Interests
+
+Threat detection • Security automation • Applied research
